@@ -2,7 +2,7 @@
 
 Junior freelance developer in La Fortuna, Costa Rica. I build websites and small SaaS tools for local small businesses.
 
-The businesses I build for serve two audiences: La Fortuna locals in Spanish and La Fortuna tourists in English, so every site I ship is bilingual from the start. Booking usually happens on WhatsApp here, so I build for that instead of forcing a contact form nobody uses.
+The businesses I build for serve two audiences: La Fortuna locals in Spanish and La Fortuna tourists in English, so my sites are bilingual by default. Booking usually happens on WhatsApp here, so I build for that instead of forcing a contact form nobody uses.
 
 Development is my side gig. Full time, I'm a property and operations manager for [Karabi Villas](https://karabivillas.com), a luxury vacation villa company in Costa Rica. That's where a lot of my ideas come from: I see every day which tools a small hospitality business is missing.
 
@@ -11,7 +11,7 @@ Development is my side gig. Full time, I'm a property and operations manager for
 
 Desarrollador freelance junior en La Fortuna, Costa Rica. Creo sitios web y pequeñas herramientas SaaS para negocios locales.
 
-Los negocios para los que trabajo atienden a dos públicos: la gente de La Fortuna, en español, y los turistas que nos visitan, en inglés. Por eso todos los sitios que entrego son bilingües desde el inicio. Aquí casi todo se reserva por WhatsApp, así que construyo pensando en eso y no en un formulario de contacto que nadie usa.
+Los negocios para los que trabajo atienden a dos públicos: la gente de La Fortuna, en español, y los turistas que nos visitan, en inglés. Por eso mis sitios son bilingües por defecto. Aquí casi todo se reserva por WhatsApp, así que construyo pensando en eso y no en un formulario de contacto que nadie usa.
 
 El desarrollo es mi proyecto paralelo. A tiempo completo soy gerente de propiedades y operaciones en [Karabi Villas](https://karabivillas.com), una empresa de villas vacacionales de lujo en Costa Rica. De ahí salen muchas de mis ideas: todos los días veo qué herramientas le hacen falta a un pequeño negocio turístico.
 
