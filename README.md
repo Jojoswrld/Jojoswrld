@@ -29,14 +29,14 @@ El desarrollo es mi proyecto paralelo. A tiempo completo soy gerente de propieda
 
 ## Projects
 
-**[The Lord Barbier](https://github.com/Jojoswrld/the-lord-barbier-2)**  
-Site for a classic barbershop in La Fortuna, open since 2020. Spanish/English, WhatsApp booking, and a printable QR card that villas and hotels can leave for guests. React, TypeScript, Tailwind v4, shadcn/ui.
+**[The Lord Barbier](https://the-lord-barbier-1.lavalogic.workers.dev)**  
+Demo site for a classic barbershop in La Fortuna, open since 2020. It has a Spanish/English switch, a WhatsApp booking form that also takes requests for visits to villas and hotels, and the shop's Google reviews. Hand-written HTML, CSS and JavaScript.
 
-**[JocsanFisio](https://jocsanfisio.arenalweb.workers.dev)**  
-Demo site for a local physiotherapist. A Spanish page for locals (clinic, gym and online sessions) and an English page for tourists who want a session at their hotel or Airbnb. Hand-written HTML and CSS with a custom build script.
+**[Pura Vida Domes](https://pura-vida-domes.lavalogic.workers.dev)**  
+Demo site for two glass domes by a lake in La Fortuna that rent on Airbnb. Guests pick a dome, their dates and how many people, and the booking button opens that dome's Airbnb listing with all of it filled in. English/Spanish switch, plain JavaScript.
 
-**[Sebastián Hidalgo Photo](https://sebastian-hidalgo-photo.arenalweb.workers.dev)**  
-Demo portfolio for a hospitality photographer. Projects live in one data file and a Node build script generates the pages and responsive images, so adding a new shoot takes a few minutes.
+**[Ruta Agro Fortuna](https://ruta-agro-fortuna.lavalogic.workers.dev)**  
+Demo site for a school bus route from La Fortuna to the Colegio Agropecuario de San Carlos in Santa Clara. Written in Spanish for local parents, with the monthly price, permits and insurance up front and a sign-up form that goes straight to WhatsApp. React, Vite and Tailwind CSS v4.
 
 ## What I'm working on
 
