@@ -38,6 +38,15 @@ Demo site for two glass domes by a lake in La Fortuna that rent on Airbnb. Guest
 **[Ruta Agro Fortuna](https://ruta-agro-fortuna.lavalogic.workers.dev)**  
 Demo site for a school bus route from La Fortuna to the Colegio Agropecuario de San Carlos in Santa Clara. Written in Spanish for local parents, with the monthly price, permits and insurance up front and a sign-up form that goes straight to WhatsApp. React, Vite and Tailwind CSS v4.
 
+**[JocsanFisio](https://jocsanfisio.lavalogic.workers.dev)**  
+Demo site for a local physiotherapist. A Spanish page for locals (home visits, gym and online sessions) and an English page for tourists who want a session at their hotel or Airbnb. Hand-written HTML and CSS with a custom build script.
+
+**[Sebastián Hidalgo Photo](https://sebastian-hidalgo-photo.lavalogic.workers.dev)**  
+Demo portfolio for a hospitality photographer. Projects live in one data file, and a Node build script turns it into English and Spanish pages with responsive images, so adding a new shoot takes a few minutes.
+
+**[Fran Express](https://fran-express.lavalogic.workers.dev)**  
+Demo delivery app for La Fortuna that also installs on phones. Spanish/English, with restaurants, groceries, pharmacies and point-to-point errands, a cart, order tracking on a map and a separate owner panel. React, TypeScript, Vite, Tailwind CSS and shadcn/ui.
+
 ## What I'm working on
 
 SaaS tools and automations for small businesses, cutting out the repetitive admin work owners still do by hand. Right now I'm focused on tools for Airbnb hosts.
